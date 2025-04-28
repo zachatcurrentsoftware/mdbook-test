@@ -1,0 +1,6 @@
+[book]
+authors = ["zachatcurrentsoftware"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Current Software User Manual"
