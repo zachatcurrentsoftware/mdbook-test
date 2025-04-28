@@ -4,24 +4,36 @@
 
 # Using the App
 
-- [Terminology](./usage/terminology)
-- [Navigation](./usage/navigation.md)
-- [Accounts](./usage/accounts.md)
+- [Administration](./administration.md)
+  - [Reset Password](./reset-password.md)
+  - [Add a User](./add-a-user.md)
+- [Accounts & Locations](./accounts-and-locations.md)
+  - [See Location Details from an Account](./location-details-from-account.md)
+- [Accounts: Billing & Financial Data](./accounts-billing-financial.md)
+  - [Interact with the Consumption & Charges Chart](./consumption-and-charges.md)
+  - [Using the Activity Feed](./using-activity-feed.md)
+- [Locations: Services, Meters & More](./locations-services-meters.md)
+  - [Accessing Meter Information on a Location](./meter-information.md)
+  - [View & Edit a Service on a Location](./view-edit-services.md)
+  - [Adding Fixed Water Service to a Location](./adding-fixed-service.md)
+- [Terminology](./terminology.md)
+- [Navigation](./navigating-the-app.md)
+- [Accounts](./accounts.md)
 
 # Billing
 
-- [Billing Overview](./billing/overview.md)
-- [Exporting and Importing](./billing/exporting-importing.md)
-  - [Sensus](./billing/exporting-importing/sensus.md)
-  - [Neptune](./billing/exporting-importing/neptune.md)
-- [Reviewing Exceptions](./billing/exceptions.md)
-  - [High and Low](./billing/exceptions/high-low.md)
-  - [Rollover](./billing/exceptions/rollover.md)
+- [Billing Overview](./overview.md)
+- [Exporting and Importing](./exporting-importing.md)
+  - [Sensus](./sensus.md)
+  - [Neptune](./neptune.md)
+- [Reviewing Exceptions](./exceptions.md)
+  - [High and Low](./high-low.md)
+  - [Rollover](./rollover.md)
 
 # Reporting
 
-- [Dashboard](./reporting/dashboard.md)
+- [Dashboard](./dashboard.md)
 
 # FAQ
 
-- [Finix and Autopay](./faq/finix-and-autopay.md)
+- [Finix and Autopay](./finix-and-autopay.md)
